@@ -1,0 +1,9 @@
+-- Rapport des connexions échouées --
+Nombre total de connexions échouées : 4
+
+Détails des connexions échouées :
+      TimeGenerated  EventID AccountName   Source                             Message
+2024-12-12 08:45:32     4625       user1 Security    Login failed due to bad password
+2024-12-12 09:05:25     4625       user2 Security    Login failed due to bad password
+2024-12-12 10:00:00     4625       user3 Security Login failed due to account lockout
+2024-12-12 11:00:45     4625       user5 Security    Login failed due to bad password

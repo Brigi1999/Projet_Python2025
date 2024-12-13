@@ -1,0 +1,8 @@
+TimeGenerated,EventID,AccountName,Source,Message
+2024-12-12 08:45:32,4625,user1,Security,Login failed due to bad password
+2024-12-12 08:50:10,4624,admin,Security,Login succeeded
+2024-12-12 09:05:25,4625,user2,Security,Login failed due to bad password
+2024-12-12 09:15:42,4624,user1,Security,Login succeeded
+2024-12-12 10:00:00,4625,user3,Security,Login failed due to account lockout
+2024-12-12 10:30:15,4634,user4,Security,Account logged off
+2024-12-12 11:00:45,4625,user5,Security,Login failed due to bad password
